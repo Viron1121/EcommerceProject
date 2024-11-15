@@ -4,7 +4,7 @@ the ecommerce folder is the react js format
 the ecommercets is the typescript format which already has backend
 
 to install the packages just npm install
-npm run dev to run the project
+npm run start to run the project or npm start
 
 
 for backend
